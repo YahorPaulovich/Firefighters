@@ -1,0 +1,28 @@
+{
+  "name": "com.lafinca.viking.thor",
+  "version": "1.1.0",
+  "displayName": "Viking Thor",
+  "description": "a modular, detailed and beautifully designed 3D model of the legendary god of thunder. This package includes a fully rigged. erfect for game developers and creative professionals, Viking Thor is a versatile addition to any project. With his muscular physique and iconic hammer, Mjolnir, this stylized representation of Thor captures his powerful and majestic essence. Add the might of the Norse gods to your project with Viking Thor.",
+  "unity": "2018.3",
+  "keywords": [
+    "3d character",
+    "viking",
+    "midgard",
+    "ragnarok",
+    "nordic",
+    "asgard",
+    "god",
+    "stylized",
+    "character",
+    "3d model",
+    "thor",
+    "rpg",
+    "modular",
+    "weapon"
+  ],
+  "author": {
+    "name": "LaFinca Studio",
+    "email": "lafincastudio@gmail.com",
+    "url": "https://lafinca.studio"
+  }
+}
